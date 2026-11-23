@@ -31,4 +31,10 @@ export class App {
     email: "george.harrison@aueb.gr"
   }
 
+  person2: Person = {
+    firstname: "Lakis",
+    lastname: "Lalakis",
+    email: "lakis.lalakis@aueb.gr"
+  }
+
 }
